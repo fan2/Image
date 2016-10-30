@@ -1,0 +1,18 @@
+
+1. 用Pixelmator来处理指定尺寸的图片
+
+教你在Mac电脑上用Pixelmator来处理指定尺寸的图片
+http://bbs.dgtle.com/thread-21543-1-1.html
+
+截取（Crop）之后，可以通过 【Image|Image Size】重新设置图片尺寸。
+
+Create New Image: 
+    Preset 可以选择常用预定义尺寸（Presets）或自定义（Custom）宽高（Width/Height）和分辨率（Resolution）。
+    也可以下拉齿轮，修改设置预定义尺寸（Presets）。
+
+2. Pixelmator 整体复制
+在 Pixelmator 中为图片添加 Shapes 会有图层格式叠加在原图 Layer 上。
+默认复制当前选中 Layer ？
+
+方法1：可先 ⌘2 呼出图层界面，然后 Command 逐个选中 Layer（Object），再执行 Command+C/V 复制/粘贴。
+方法2：可将 Layer 纳入 Group，然后选中 Group Layers 即可？
