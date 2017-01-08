@@ -16,7 +16,7 @@ Screencasting and video editing software for Mac
 
 [ScreenFlow 6.1 优秀的屏幕录像软件](http://xclient.info/s/screenflow.html)
 
-Screenflow 是Mac OS平台上一款优秀的屏幕录像软件。不但可以录制桌面操作还可以进行后期的剪辑工作，可以添加字幕， 增加视频效果与文字效果等功能，支持输出成 MOV,FLV 等格式。此软件获得WWDC 2008软件设计大奖。
+Screenflow 是Mac OS平台上一款优秀的屏幕录像软件。不但可以录制桌面操作还可以进行后期的剪辑工作，可以添加字幕，增加视频效果与文字效果等功能，支持输出成 MOV,FLV 等格式。此软件获得WWDC 2008软件设计大奖。
 
 ### [techSmith Camtasia](https://www.techsmith.com/camtasia.html)
 Make Amazing Videos and Screen Recordings with Camtasia
