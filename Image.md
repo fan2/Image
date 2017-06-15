@@ -1,9 +1,8 @@
 ## Image
-### [Adobe Photoshop CC 2015.5.1 Mac/Win破解版](http://www.sdifenzhou.com/photoshopcc201551.html)
+### [Adobe Photoshop CC](http://www.adobe.com/products/photoshop.html)
 
 ### SnagIt（截图、录屏、标注）
-[SnagIt 12.0.0.1001 for Windows 汉化破解版](http://www.cncrk.com/downinfo/2774.html)  
-[Snagit 4.0.5 Mac 破解版](http://www.sdifenzhou.com/snagit405.html)
+<https://www.techsmith.com>
 
 #### [终极截屏工具](http://www.snagit.com.cn/index.htm)
 Snagit 为您提供所有必需工具来创建抢眼的图像和视频，并帮助您轻松简便地进行共享。 对 Snagit 进行定制来使其满足您的特定需求或您整个企业的需求。
@@ -37,11 +36,9 @@ Showing team members is a lot easier than telling them. Snagit has a dynamic edi
 ![snagit-editor-markup-screenshots](https://assets.techsmith.com/Images/content/mkt-product-snagit/snagit-editor-markup-screenshots.png)
 
 ### 证照之星
+专业的证件照片制作软件
 
-[个人免费版](http://www.sdifenzhou.com/zzzx.html)  
-[企业破解版](http://www.sdifenzhou.com/zzzx5.html)
-
-[下载地址](http://wm.makeding.com/iclk/?zoneid=4939&amp;uid=1563)
+<http://www.zhzzx.com>
 
 ### 几何画板
 美国Key Curriculum Press公司制作并出版的优秀教育软件。
@@ -54,13 +51,14 @@ Showing team members is a lot easier than telling them. Snagit has a dynamic edi
 6. 更简便、更强大的图形；
 7. JavaSketchpad。
 
-[几何画板 Mac版下载](http://wm.makeding.com/iclk/?zoneid=5427&amp)  
-[几何画板 Windows版下载](http://wm.makeding.com/iclk/?zoneid=5428)
+[The Geometer's Sketchpad](http://www.keycurriculum.com)
 
 ### ChemDraw
-[链向 ChemDraw Pro 15.0 Mac破解版](http://www.sdifenzhou.com/page/3/)
+
+[ChemDraw and ChemOffice 16](http://www.cambridgesoft.com/software/overview.aspx)  
+<http://www.chemdraw.com.cn>  
 
 ### Essential Anatomy
-[Essential Anatomy 5.0 Mac破解版](http://www.sdifenzhou.com/essentialanatomy502.html)
+[Essential Anatomy](https://itunes.apple.com/us/app/essential-anatomy-5/id596684220?mt=8)
 
 Essential Anatomy拥有完全3D的画面，包含了人体的骨骼、肌肉、结缔组织、静脉、动脉、神经、淋巴、大脑和心脏等等，对于学习的朋友来说是一款非常有价值的工具。
